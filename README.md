@@ -7,3 +7,5 @@ Per eseguire, modificare eventuali path e configurazione di MedRAG in base alle 
 Alcuni script sono di appoggio per l'estrazione di informazioni utili o che comunque sono state eventualmente utilizzate negli esperimenti sui notebook.
 
 All'interno degli script di calcolo delle metriche potrebbero esserci delle righe di prova che vanno commentate al fine di ottenere esperimenti veritieri, la loro presenza è dovuto al solo testing.
+
+Per info su MedRAG: https://github.com/Teddy-XiongGZ/MedRAG
